@@ -1,4 +1,4 @@
-package br.com.mangan;
+package main.br.com.mangan;
 
 public class App {
 	public static int identificaTriangulo(int a, int b, int c) {
@@ -15,6 +15,6 @@ public class App {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
-		identificaTriangulo(2, 3, 4);
+		System.out.println(identificaTriangulo(2, 3, 4));
 	}
 }

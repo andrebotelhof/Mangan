@@ -1,4 +1,4 @@
-package br.com.mangan;
+package main.br.com.mangan;
 
 public enum tipos {
 	EQUILATERO(1), ESCALENO(2), ISOSCELES(3), INVALIDO(4);
